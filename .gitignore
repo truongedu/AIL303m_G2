@@ -2,3 +2,4 @@
 *.exe
 *.txt
 /ml-32m
+*.pkl
